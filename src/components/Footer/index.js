@@ -76,14 +76,15 @@ const Footer = () => {
                 <SocialMediaWrap>
                     <SocialLogo to='/' onClick={toggleHome}>
                         Token Solutions
+            
                     </SocialLogo>
-                    <WebsiteRights>Token Solutions ® {new Date().getFullYear()} All rights reserved</WebsiteRights>
+                    <WebsiteRights>Token Solutions ® {new Date().getFullYear()} All rights reserved -- contact us in Linkedin</WebsiteRights>
                     <SocialIcons>
                         {/* <SocialIconLink href="/" target="_blank" arial-label="Facebook"><FaFacebook /></SocialIconLink> */}
                         {/* <SocialIconLink href="/" target="_blank" arial-label="Instagram"><FaInstagram /></SocialIconLink> */}
                         {/* <SocialIconLink href="/" target="_blank" arial-label="Youtube"><FaYoutube /></SocialIconLink> */}
                         {/* <SocialIconLink href="/" target="_blank" arial-label="Twitter "><FaTwitter /></SocialIconLink> */}
-                        <SocialIconLink href="/" target="_blank" arial-label="Linkedin "><FaLinkedin /></SocialIconLink>
+                        <SocialIconLink href="https://www.linkedin.com/in/pablo-f-acebedo/" target="_blank" arial-label="Linkedin "><FaLinkedin /></SocialIconLink>
                     </SocialIcons>
                 </SocialMediaWrap>
             </SocialMedia>
