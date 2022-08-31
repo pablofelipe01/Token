@@ -1,31 +1,45 @@
 import React from 'react'
+import { Link } from "react-router-dom";
 import { ServicesContainer, ServicesH1, ServicesWrapper, ServicesIcon, ServicesH2, ServicesP, ServicesCard } from './ServicesElements'
-import Icon1 from '../../images/svg-d.svg'
+// import Icon1 from '../../images/svg-d.svg'
+import  image1 from './Images/image1.png'
+import  image2 from './Images/image2.png'
+import  image3 from './Images/image3.png'
 import Icon2 from '../../images/svg-c.svg'
 import Icon3 from '../../images/svg-a.svg'
 
 const Services = () => {
     return (
         <ServicesContainer id="services">
-            <ServicesH1>Our Services</ServicesH1>
-            <ServicesWrapper>
-                <ServicesCard>
-                    <ServicesIcon src={Icon1} />
-                    <ServicesH2>Tokenization</ServicesH2>
-                    <ServicesP>Token Solutions provides powerful data protection features for decentralization</ServicesP>
+            <ServicesH1>Success cases</ServicesH1>
+            
+            <ServicesWrapper >
+            <a href={"https://www.procoreef.com/general-8"}>
+                <ServicesCard >
+                    <ServicesIcon src={image1}  />
+                    <ServicesH2 >Procoreef</ServicesH2>
+                    <ServicesP>Develop a large-scale coral reef restoration project in the Caribbean</ServicesP>
                 </ServicesCard>
+            </a>
+            <a href={'https://donvicente.co/tokens'}>
 
+            
                 <ServicesCard>
-                    <ServicesIcon src={Icon2} />
+                    <ServicesIcon src={image2} />
                     <ServicesH2>Blockchain</ServicesH2>
-                    <ServicesP>Decentralized database that is shared among computer network nodes.</ServicesP>
+                    <ServicesP>Don Vicente Quinoa Spirits is the result of innovative
+                        recipes -WHISKEY & GIN- </ServicesP>
                 </ServicesCard>
-
+            </a>
+            <a href={"https://wum.bo/profile/3KiyiM4AKwfAFBsc575NaNTX3dArDVxj3rjK8B5ZrByK"}>
                 <ServicesCard>
-                    <ServicesIcon src={Icon3} />
-                    <ServicesH2>Smart Contracts</ServicesH2>
-                    <ServicesP>Programs that run when criteria are satisfied and maintained on a blockchain</ServicesP>
+                    <ServicesIcon src={image3} />
+                    <ServicesH2>Social Token</ServicesH2>
+                    <ServicesP>Social token is a type of cryptocurrency used to monetize a brand</ServicesP>
                 </ServicesCard>
+            </a>
+                
+                
             </ServicesWrapper>
             
         </ServicesContainer>

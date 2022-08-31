@@ -21,7 +21,7 @@ export const homeObjTwo = {
     lightText: true,
     lightTextDesc: true,
     topLine: 'Real Estate',
-    headline: 'Innovative and alternative sources of financing',
+    headline: 'Alternative sources of financing',
     description: 'Finances your projects democratically and transparently through tokenization',
     buttonLabel: 'Get started',
     imgStart: true,
@@ -47,4 +47,21 @@ export const homeObjThree = {
     dark: false,
     primary: false,
     darkText: true,
+};
+
+export const homeObjFour = {
+    id: 'social',
+    lightBg: false,
+    lightText: true,
+    lightTextDesc: true,
+    topLine: 'Social Token',
+    headline: 'Monetize your brand',
+    description: 'A social token is a type of cryptocurrency used to monetize a brand. They can be personal or community tokens. The value of a social token revolves around the brand issuing it, and are used by holders as a way to feel belonging to a certain group.',
+    buttonLabel: 'Get started',
+    imgStart: true,
+    img: 'images/svg-4.svg',
+    alt: 'Startup',
+    dark: true,
+    primary: true,
+    darkText: false,
 };

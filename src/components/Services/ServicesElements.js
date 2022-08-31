@@ -1,4 +1,5 @@
 import styled from "styled-components";
+import { Link } from "react-router-dom";
 
 export const ServicesContainer = styled.div`
     height: 800px;
@@ -54,6 +55,7 @@ export const ServicesCard = styled.div`
        cursor: pointer;
    }
 `;
+
 
 export const ServicesIcon = styled.img`
     height: 160px;
