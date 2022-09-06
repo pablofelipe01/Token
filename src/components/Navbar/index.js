@@ -74,18 +74,34 @@ const Navbar = ({ toggle }) => {
                         </NavItem>
 
                         <NavItem>
-                            <NavLinks to="services"
+                        <a href="https://solscan.io/address/24L35wJRziTzK5pTnq8MdMCKPRngZRDkTiu5pBtortc3">
+                            <NavLinks 
+                            onClick={"https://solscan.io/address/24L35wJRziTzK5pTnq8MdMCKPRngZRDkTiu5pBtortc3"}
                             smooth={true}
                             duration={500}
                             spy={true}
                             exact='true'
                             offset={-80}
-                            >CLIENTS</NavLinks>
+                            >DAO</NavLinks>
+                            </a>
                         </NavItem>
+                        <NavItem>
+                        <a href="https://phantom.app/">
+                            <NavLinks 
+                            onClick={"https://phantom.app/"}
+                            smooth={true}
+                            duration={500}
+                            spy={true}
+                            exact='true'
+                            offset={-80}
+                            >CRYPTO WALLET</NavLinks>
+                            </a>
+                        </NavItem>
+                        
                     </NavMenu>
-                        {/* <NavBtn>
-                            <NavBtnLink to="/signin">Contact</NavBtnLink>
-                        </NavBtn> */}
+                        <NavBtn>
+                            {/* <NavBtnLink to="/" onClick={"https://www.procoreef.com/general-8"}>Contact</NavBtnLink> */}
+                        </NavBtn>
                 </NavbarContainer>
             </Nav>
             </IconContext.Provider>
