@@ -7,6 +7,7 @@ import  image2 from './Images/image2.png'
 import  image3 from './Images/image3.png'
 import  image4 from './Images/image4.png'
 import  image5 from './Images/image5.png'
+import  image6 from './Images/image6.png'
 import Icon2 from '../../images/svg-c.svg'
 import Icon3 from '../../images/svg-a.svg'
 
@@ -53,6 +54,14 @@ const Services = () => {
                     <ServicesIcon src={image5} />
                     <ServicesH2>Social Token</ServicesH2>
                     <ServicesP>Social token is a type of cryptocurrency used to monetize a brand</ServicesP>
+                </ServicesCard>
+            </a>
+
+            <a href={"https://socialtoken.netlify.app/"}>
+                <ServicesCard>
+                    <ServicesIcon src={image6} />
+                    <ServicesH2>Social Token</ServicesH2>
+                    <ServicesP>Social token Landing Page, cryptocurrency used to monetize a brand</ServicesP>
                 </ServicesCard>
             </a>
                 
