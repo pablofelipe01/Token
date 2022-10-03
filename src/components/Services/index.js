@@ -37,10 +37,7 @@ const Services = () => {
             <a href={"https://wum.bo/profile/3KiyiM4AKwfAFBsc575NaNTX3dArDVxj3rjK8B5ZrByK"}>
                 <ServicesCard>
                     <ServicesIcon src={image3} />
-                    <ServicesH2>The new value flow
-at the intersection of web3
-and the creator economy
-</ServicesH2>
+                    <ServicesH2>True Social Token</ServicesH2>
                     <ServicesP>The new value flow
 at the intersection of web3
 and the creator economy
@@ -51,10 +48,7 @@ and the creator economy
             <a href={"https://wum.bo/profile/4HK5WwBnX3ATZrw56stf1xuY9PPCU7D9nvkLPLFVy9Tq"}>
                 <ServicesCard>
                     <ServicesIcon src={image4} />
-                    <ServicesH2>The new value flow
-at the intersection of web3
-and the creator economy
-</ServicesH2>
+                    <ServicesH2>True Social Token</ServicesH2>
                     <ServicesP>The new value flow
 at the intersection of web3
 and the creator economy
@@ -64,10 +58,7 @@ and the creator economy
             <a href={"https://wum.bo/profile/GLiafMRmUMWfTrBt1pygfvBBSNh4BiW223KZqVxWeHVs"}>
                 <ServicesCard>
                     <ServicesIcon src={image5} />
-                    <ServicesH2>The new value flow
-at the intersection of web3
-and the creator economy
-</ServicesH2>
+                    <ServicesH2>True Social Token</ServicesH2>
                     <ServicesP>The new value flow
 at the intersection of web3
 and the creator economy
@@ -78,10 +69,7 @@ and the creator economy
             <a href={"https://socialtoken.netlify.app/"}>
                 <ServicesCard>
                     <ServicesIcon src={image6} />
-                    <ServicesH2>The new value flow
-at the intersection of web3
-and the creator economy
-</ServicesH2>
+                    <ServicesH2>True Social Token</ServicesH2>
                     <ServicesP>The new value flow
 at the intersection of web3
 and the creator economy
