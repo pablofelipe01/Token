@@ -37,31 +37,55 @@ const Services = () => {
             <a href={"https://wum.bo/profile/3KiyiM4AKwfAFBsc575NaNTX3dArDVxj3rjK8B5ZrByK"}>
                 <ServicesCard>
                     <ServicesIcon src={image3} />
-                    <ServicesH2>Social Token</ServicesH2>
-                    <ServicesP>Social token is a type of cryptocurrency used to monetize a brand</ServicesP>
+                    <ServicesH2>The new value flow
+at the intersection of web3
+and the creator economy
+</ServicesH2>
+                    <ServicesP>The new value flow
+at the intersection of web3
+and the creator economy
+</ServicesP>
                 </ServicesCard>
             </a>
                 
             <a href={"https://wum.bo/profile/4HK5WwBnX3ATZrw56stf1xuY9PPCU7D9nvkLPLFVy9Tq"}>
                 <ServicesCard>
                     <ServicesIcon src={image4} />
-                    <ServicesH2>Social Token</ServicesH2>
-                    <ServicesP>Social token is a type of cryptocurrency used to monetize a brand</ServicesP>
+                    <ServicesH2>The new value flow
+at the intersection of web3
+and the creator economy
+</ServicesH2>
+                    <ServicesP>The new value flow
+at the intersection of web3
+and the creator economy
+</ServicesP>
                 </ServicesCard>
             </a>
             <a href={"https://wum.bo/profile/GLiafMRmUMWfTrBt1pygfvBBSNh4BiW223KZqVxWeHVs"}>
                 <ServicesCard>
                     <ServicesIcon src={image5} />
-                    <ServicesH2>Social Token</ServicesH2>
-                    <ServicesP>Social token is a type of cryptocurrency used to monetize a brand</ServicesP>
+                    <ServicesH2>The new value flow
+at the intersection of web3
+and the creator economy
+</ServicesH2>
+                    <ServicesP>The new value flow
+at the intersection of web3
+and the creator economy
+</ServicesP>
                 </ServicesCard>
             </a>
 
             <a href={"https://socialtoken.netlify.app/"}>
                 <ServicesCard>
                     <ServicesIcon src={image6} />
-                    <ServicesH2>Social Token</ServicesH2>
-                    <ServicesP>Social token Landing Page, cryptocurrency used to monetize a brand</ServicesP>
+                    <ServicesH2>The new value flow
+at the intersection of web3
+and the creator economy
+</ServicesH2>
+                    <ServicesP>The new value flow
+at the intersection of web3
+and the creator economy
+</ServicesP>
                 </ServicesCard>
             </a>
                 
