@@ -74,9 +74,9 @@ const Navbar = ({ toggle }) => {
                         </NavItem>
 
                         <NavItem>
-                        <a href="https://app.squads.so/squad/4ak5aZHkrUT246CGSELBNZRggmbWsd7T7FCcwcJdQQu5/info">
+                        <a href="https://explorer.solana.com/address/7iyk4G9vS8PdQQKpP98E22ftA6HejThBsaWAjXybou97">
                             <NavLinks 
-                            onClick={"https://app.squads.so/squad/4ak5aZHkrUT246CGSELBNZRggmbWsd7T7FCcwcJdQQu5/info"}
+                            onClick={"https://explorer.solana.com/address/7iyk4G9vS8PdQQKpP98E22ftA6HejThBsaWAjXybou97"}
                             smooth={true}
                             duration={500}
                             spy={true}

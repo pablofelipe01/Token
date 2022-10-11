@@ -1,4 +1,4 @@
 Token Solutions is a Token Consulting DAO Decentralized Autonomous Organization in the web3 on the Solana Network.
 
-https://app.squads.so/squad/4ak5aZHkrUT246CGSELBNZRggmbWsd7T7FCcwcJdQQu5/info
-https://solscan.io/address/24L35wJRziTzK5pTnq8MdMCKPRngZRDkTiu5pBtortc3
+https://v3.squads.so/info/597zuPZc7SVzeEjgMzRaQ7GDjd4eArPEjMLGnGKS1gYN
+https://explorer.solana.com/address/7iyk4G9vS8PdQQKpP98E22ftA6HejThBsaWAjXybou97

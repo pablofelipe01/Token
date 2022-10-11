@@ -29,7 +29,7 @@ const Services = () => {
             
                 <ServicesCard>
                     <ServicesIcon src={image2} />
-                    <ServicesH2>Blockchain</ServicesH2>
+                    <ServicesH2>Don Vicente</ServicesH2>
                     <ServicesP>Don Vicente Quinoa Spirits is the result of innovative
                         recipes -WHISKEY & GIN- </ServicesP>
                 </ServicesCard>
