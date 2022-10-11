@@ -34,7 +34,7 @@ const Services = () => {
                         recipes -WHISKEY & GIN- </ServicesP>
                 </ServicesCard>
             </a>
-            <a href={"https://wum.bo/profile/3KiyiM4AKwfAFBsc575NaNTX3dArDVxj3rjK8B5ZrByK"}>
+            {/* <a href={"https://wum.bo/profile/3KiyiM4AKwfAFBsc575NaNTX3dArDVxj3rjK8B5ZrByK"}>
                 <ServicesCard>
                     <ServicesIcon src={image3} />
                     <ServicesH2>True Social Token</ServicesH2>
@@ -64,7 +64,7 @@ at the intersection of web3
 and the creator economy
 </ServicesP>
                 </ServicesCard>
-            </a>
+            </a> */}
 
             <a href={"https://socialtoken.netlify.app/"}>
                 <ServicesCard>
