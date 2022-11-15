@@ -3,7 +3,7 @@ export const homeObjOne = {
     lightBg: true,
     lightText: false,
     lightTextDesc: false,
-    topLine: 'Startup company',
+    topLine: 'Startup',
     headline: 'Unlimited and global funding',
     description: 'Get funds for your Startup in a smart, transparent and decentralized way',
     buttonLabel: 'Get started',

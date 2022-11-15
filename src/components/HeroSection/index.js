@@ -2,7 +2,7 @@ import React, {useState} from 'react'
 import { HeroContainer, HeroBg, VideoBg, HeroContent, HeroH1, HeroP, HeroBtnWrapper } from './HeroElements'
 import Video from '../../videos/video.mp4'
 // import { Button } from '../ButtonElements'
-import { NavBtn, NavBtnLink } from '../Navbar/NavbarElements'
+import { NavBtn, NavBtnLink, Button } from '../Navbar/NavbarElements'
 
 
 const HeroSection = () => {
@@ -25,7 +25,7 @@ const HeroSection = () => {
                 the real democratic and de-centralized Internet
                 </HeroP>
                 <HeroBtnWrapper>
-                    {/* <Button 
+                    <Button 
                     to="/signin" 
                     smooth={true}
                     duration={500}
@@ -37,13 +37,11 @@ const HeroSection = () => {
                     onMouseEnter={onHover}
                     onMouseLeave={onHover}
                     >
-                        Get Started {hover ? <ArrowForward /> : <ArrowRight />}
+                        Get Started 
 
                         
-                    </Button> */}
-                    {/* <NavBtn>
-                            <NavBtnLink to="/signin">Register</NavBtnLink>
-                        </NavBtn>  */}
+                    </Button>
+                    
                 </HeroBtnWrapper>
             </HeroContent>
 

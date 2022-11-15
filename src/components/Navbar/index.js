@@ -1,5 +1,5 @@
 import React, {useEffect, useState} from 'react'
-import { Nav, NavbarContainer, NavLogo, MobileIcon, NavMenu, NavItem, NavLinks, NavBtn, NavBtnLink } from './NavbarElements'
+import { Nav, NavbarContainer, NavLogo, MobileIcon, NavMenu, NavItem, NavLinks, NavBtn, NavBtnLink, } from './NavbarElements'
 import { FaBars } from 'react-icons/fa'
 import { IconContext } from 'react-icons/lib'
 import { animateScroll as scroll } from 'react-scroll'
@@ -74,9 +74,9 @@ const Navbar = ({ toggle }) => {
                         </NavItem>
 
                         <NavItem>
-                        <a href="https://explorer.solana.com/address/7iyk4G9vS8PdQQKpP98E22ftA6HejThBsaWAjXybou97">
+                        <a href="https://v3.squads.so/vault/assets/597zuPZc7SVzeEjgMzRaQ7GDjd4eArPEjMLGnGKS1gYN">
                             <NavLinks 
-                            onClick={"https://explorer.solana.com/address/7iyk4G9vS8PdQQKpP98E22ftA6HejThBsaWAjXybou97"}
+                            onClick={"https://v3.squads.so/vault/assets/597zuPZc7SVzeEjgMzRaQ7GDjd4eArPEjMLGnGKS1gYN"}
                             smooth={true}
                             duration={500}
                             spy={true}
@@ -100,7 +100,7 @@ const Navbar = ({ toggle }) => {
                         
                     </NavMenu>
                         <NavBtn>
-                            {/* <NavBtnLink to="/" onClick={"https://www.procoreef.com/general-8"}>Contact</NavBtnLink> */}
+                            {/* <NavBtnLink to="https://www.pabloacebedo.com/" onClick={"https://www.pabloacebedo.com/"}>Contact</NavBtnLink> */}
                         </NavBtn>
                 </NavbarContainer>
             </Nav>

@@ -8,6 +8,8 @@ import  image3 from './Images/image3.png'
 import  image4 from './Images/image4.png'
 import  image5 from './Images/image5.png'
 import  image6 from './Images/image6.png'
+import  image7 from './Images/image7.png'
+import  image8 from './Images/image8.png'
 import Icon2 from '../../images/svg-c.svg'
 import Icon3 from '../../images/svg-a.svg'
 
@@ -21,61 +23,39 @@ const Services = () => {
                 <ServicesCard >
                     <ServicesIcon src={image1}  />
                     <ServicesH2 >Procoreef</ServicesH2>
-                    <ServicesP>Develop a large-scale coral reef restoration project in the Caribbean</ServicesP>
+                    
                 </ServicesCard>
             </a>
             <a href={'https://donvicente.co/tokens'}>
-
-            
                 <ServicesCard>
                     <ServicesIcon src={image2} />
                     <ServicesH2>Don Vicente</ServicesH2>
-                    <ServicesP>Don Vicente Quinoa Spirits is the result of innovative
-                        recipes -WHISKEY & GIN- </ServicesP>
                 </ServicesCard>
             </a>
-            {/* <a href={"https://wum.bo/profile/3KiyiM4AKwfAFBsc575NaNTX3dArDVxj3rjK8B5ZrByK"}>
-                <ServicesCard>
-                    <ServicesIcon src={image3} />
-                    <ServicesH2>True Social Token</ServicesH2>
-                    <ServicesP>The new value flow
-at the intersection of web3
-and the creator economy
-</ServicesP>
-                </ServicesCard>
-            </a>
-                
-            <a href={"https://wum.bo/profile/4HK5WwBnX3ATZrw56stf1xuY9PPCU7D9nvkLPLFVy9Tq"}>
-                <ServicesCard>
-                    <ServicesIcon src={image4} />
-                    <ServicesH2>True Social Token</ServicesH2>
-                    <ServicesP>The new value flow
-at the intersection of web3
-and the creator economy
-</ServicesP>
-                </ServicesCard>
-            </a>
-            <a href={"https://wum.bo/profile/GLiafMRmUMWfTrBt1pygfvBBSNh4BiW223KZqVxWeHVs"}>
-                <ServicesCard>
-                    <ServicesIcon src={image5} />
-                    <ServicesH2>True Social Token</ServicesH2>
-                    <ServicesP>The new value flow
-at the intersection of web3
-and the creator economy
-</ServicesP>
-                </ServicesCard>
-            </a> */}
 
             <a href={"https://socialtoken.netlify.app/"}>
                 <ServicesCard>
-                    <ServicesIcon src={image6} />
+                    <ServicesIcon src={image4} />
                     <ServicesH2>True Social Token</ServicesH2>
-                    <ServicesP>The new value flow
-at the intersection of web3
-and the creator economy
-</ServicesP>
                 </ServicesCard>
             </a>
+            <a href={"https://xpo-pied.vercel.app"}>
+                <ServicesCard>
+                    <ServicesIcon src={image7} />
+                    <ServicesH2>Sports Token</ServicesH2>
+                </ServicesCard>
+            </a>
+            <a href={"https://azul-kappa.vercel.app"}>
+                <ServicesCard>
+                    <ServicesIcon src={image8} />
+                    <ServicesH2>Token Azul</ServicesH2>
+                </ServicesCard>
+            </a>
+            
+                   
+           
+
+                    
                 
             </ServicesWrapper>
             
