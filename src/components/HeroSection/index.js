@@ -21,8 +21,7 @@ const HeroSection = () => {
             <HeroContent>
                 <HeroH1>Token Solutions for Every Industry</HeroH1>
                 <HeroP>
-                Sign up and take your company to the future of blockchain and Web 3.0, 
-                the real democratic and de-centralized Internet
+                We are a leading provider of innovative blockchain-based solutions for businesses and organizations. Our team of experts is dedicated to helping you leverage the power of blockchain technology to streamline your operations, improve efficiency, and drive growth.
                 </HeroP>
                 <HeroBtnWrapper>
                     <Button 

@@ -10,6 +10,7 @@ import  image5 from './Images/image5.png'
 import  image6 from './Images/image6.png'
 import  image7 from './Images/image7.png'
 import  image8 from './Images/image8.png'
+import  image9 from './Images/image9.png'
 import Icon2 from '../../images/svg-c.svg'
 import Icon3 from '../../images/svg-a.svg'
 
@@ -49,6 +50,12 @@ const Services = () => {
                 <ServicesCard>
                     <ServicesIcon src={image8} />
                     <ServicesH2>Token Azul</ServicesH2>
+                </ServicesCard>
+            </a>
+            <a href={"https://puerto-venus.vercel.app/"}>
+                <ServicesCard>
+                    <ServicesIcon src={image9} />
+                    <ServicesH2>Puerto Venus</ServicesH2>
                 </ServicesCard>
             </a>
             
